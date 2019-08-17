@@ -8,9 +8,9 @@
 
 [ECOM’18: eCommerce](http://sigir.org/sigir2018/program/workshops/#w6)
 
-[论文接收](https://sigir-ecom.github.io/accepted-papers.html)
+[论文接收](https://sigir-ecom.github.io/ecom2018/accepted-papers.html)
 
-[电商竞赛排行榜](https://sigir-ecom.github.io/data-task.html)
+[电商竞赛排行榜](https://sigir-ecom.github.io/ecom2018/data-task.html)
 
 
 
